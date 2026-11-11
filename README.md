@@ -25,6 +25,7 @@ Here you will find the codes of dsa seperated by topics . This is a 100 day dail
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/maruthi9242/Daily-Dsa-Challenge/tree/main/0039-combination-sum/) | Medium |
 | [1020-number-of-enclaves](https://github.com/maruthi9242/Daily-Dsa-Challenge/tree/main/1020-number-of-enclaves/) | Medium |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/maruthi9242/Daily-Dsa-Challenge/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 ## Matrix
@@ -35,4 +36,8 @@ Here you will find the codes of dsa seperated by topics . This is a 100 day dail
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/maruthi9242/Daily-Dsa-Challenge/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/maruthi9242/Daily-Dsa-Challenge/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->
