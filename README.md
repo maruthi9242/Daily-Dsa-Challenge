@@ -6,16 +6,19 @@ Here you will find the codes of dsa seperated by topics . This is a 100 day dail
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/maruthi9242/Daily-Dsa-Challenge/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/maruthi9242/Daily-Dsa-Challenge/tree/main/0547-number-of-provinces/) | Medium |
 | [1020-number-of-enclaves](https://github.com/maruthi9242/Daily-Dsa-Challenge/tree/main/1020-number-of-enclaves/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/maruthi9242/Daily-Dsa-Challenge/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/maruthi9242/Daily-Dsa-Challenge/tree/main/0547-number-of-provinces/) | Medium |
 | [1020-number-of-enclaves](https://github.com/maruthi9242/Daily-Dsa-Challenge/tree/main/1020-number-of-enclaves/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/maruthi9242/Daily-Dsa-Challenge/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/maruthi9242/Daily-Dsa-Challenge/tree/main/0547-number-of-provinces/) | Medium |
 | [1020-number-of-enclaves](https://github.com/maruthi9242/Daily-Dsa-Challenge/tree/main/1020-number-of-enclaves/) | Medium |
 ## Graph Theory
@@ -26,11 +29,13 @@ Here you will find the codes of dsa seperated by topics . This is a 100 day dail
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/maruthi9242/Daily-Dsa-Challenge/tree/main/0039-combination-sum/) | Medium |
+| [0200-number-of-islands](https://github.com/maruthi9242/Daily-Dsa-Challenge/tree/main/0200-number-of-islands/) | Medium |
 | [1020-number-of-enclaves](https://github.com/maruthi9242/Daily-Dsa-Challenge/tree/main/1020-number-of-enclaves/) | Medium |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/maruthi9242/Daily-Dsa-Challenge/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/maruthi9242/Daily-Dsa-Challenge/tree/main/0200-number-of-islands/) | Medium |
 | [1020-number-of-enclaves](https://github.com/maruthi9242/Daily-Dsa-Challenge/tree/main/1020-number-of-enclaves/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
