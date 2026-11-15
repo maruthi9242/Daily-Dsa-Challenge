@@ -26,7 +26,7 @@ public:
         }
         if( (i==n-1 or i==0 or j==m-1 or j==0) and grid[i][j]=='O')
         {
-            visited[i][j]=1;
+           // visited[i][j]=1;
             safe=false;
             return;
         }
@@ -48,7 +48,7 @@ public:
         {
             for(int j=0;j<m;j++)
             {
-                if(board[i][j]=='O' and !visited[i][j] and i!=0 and j!=0 and i!=n-1 and j!=m-1)
+                if(board[i][j]=='O' and !visited[i][j] )
                 {
                     isSafe(board,visited,n,m,i,j);
                     if(safe)
