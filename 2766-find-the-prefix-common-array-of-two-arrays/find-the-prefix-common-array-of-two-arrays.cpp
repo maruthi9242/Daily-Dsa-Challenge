@@ -14,16 +14,24 @@ public:
             set1.insert(A[i]);
             set2.insert(B[i]);
 
-            for(auto x:set1)
-            {
-                if(set2.contains(x))
+                if(A[i]==B[i]){
+                     count++;
+                     ans.push_back(count);
+                     continue;
+                }
+            
+                if(set2.contains(A[i]))
                 {
                     count++;
                 }
-            }
+                if(set1.contains(B[i]))
+                {
+                    count++;
+                }
+            
             ans.push_back(count);
 
-            count=0;
+           // count=0;
         }
 
         return ans;
